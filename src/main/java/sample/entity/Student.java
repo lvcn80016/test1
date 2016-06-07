@@ -4,6 +4,9 @@ public class Student {
 	private int id;
 	private int maxorderid;
 	private int maxparkcustid;
+	
+	private String name;
+	
 	public int getId() {
 		return id;
 	}
